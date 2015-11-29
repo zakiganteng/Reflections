@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is a file that you want to want to commit. and working directory is where you do your jobs
