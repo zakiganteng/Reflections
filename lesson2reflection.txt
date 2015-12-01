@@ -1,2 +1,18 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is a file that you want to want to commit. and working directory is where you do your jobs
+
+How can you use the staging area to make sure you have one commit per logical change?
+i can use the staging are with using "git add 'namefiles"
+
+How do the diagrams help you visualize the branch structure?
+well it hep me to know where the branch going and where is the branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	pros
+		less work
+		easy
+		lazy
+	cons
+		hard add first
+		well automaticaly something merge the wrong think. 
+		after a merge bug appear!!!!
