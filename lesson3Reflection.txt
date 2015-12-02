@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 when i have internet la bro, then its easy to make the file in the cloud
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+well if i pull changes manually i know what my lan version is
