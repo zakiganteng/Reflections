@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 when i have internet la bro, then its easy to make the file in the cloud
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 well if i pull changes manually i know what my lan version is
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	forks is like you clone repository from github server to github server
+	clones is copying all the metadata from github to your local git
+	branches is like a brach you just make some branch to use for something funny. master bracnh is your default
