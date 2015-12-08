@@ -6,3 +6,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	forks is like you clone repository from github server to github server
 	clones is copying all the metadata from github to your local git
 	branches is like a brach you just make some branch to use for something funny. master bracnh is your default
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	well having a copy of the last known state and store it locally make me can do the work without internet and its make me can diff the change that i make and the one at github
